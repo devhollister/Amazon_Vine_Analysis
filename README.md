@@ -10,11 +10,25 @@ The original dataset contained a total of 904,765 reviews of musical instruments
 
 ![](images/overview_table.png)
 
-This dataset was refined by excluding reviews with less than 20 total votes and those with less than 50% helpful votes (hopeful votes/total votes). From here the reviews were broken down into Vine members and non-Vine members. There were a total of 60 reviews by Vine members at this point in the analysis, with 34 of those giving 5-stars (56.67%). The first ten reviews by Vine members are shown below: 
+This dataset was refined by excluding reviews with less than 20 total votes and those with less than 50% helpful votes (hopeful votes/total votes). From here the reviews were broken down into Vine members and non-Vine members. 
+
+### Vine Members
+
+* There were a total of 60 reviews by Vine members. 
+* 34 of those reviews were 5-star reviews. 
+* The percentage of reviews that were 5-star was 56.67%. 
+
+The first ten reviews by Vine members are shown below: 
 
 ![](images/paid_table.png)
 
-There were 14,477 reviews by non-Vine members, and 8,212 of those reviews were 5-star reviews (56.72%). The first ten reviews by non-Vine members are shown below:
+### Non-Vine Members
+
+* There were 14,477 reviews by non-Vine members.
+* 8,212 of those reviews were 5-star reviews.
+* The percentage of reviews that were 5-star was 56.72%. 
+
+The first ten reviews by non-Vine members are shown below:
 
 ![](images/unpaid_table.png)
 
