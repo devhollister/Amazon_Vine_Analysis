@@ -14,8 +14,10 @@ This dataset was refined by excluding reviews with less than 20 total votes and 
 
 ![](images/paid_table.png)
 
-There were 14,477 reviews by non-Vine members, and 8,212 of those reviews were 5-star reviews (56.72%). The first ten reviews by non-Vine memners are shown below:
+There were 14,477 reviews by non-Vine members, and 8,212 of those reviews were 5-star reviews (56.72%). The first ten reviews by non-Vine members are shown below:
 
 ![](images/unpaid_table.png)
 
 ## Summary
+
+Based on the results above, it can be suggested that positive bias among Vine members. In fact, the proportion of 5-star reviews is slightly lower among Vine members non-Vine members (56.67% vs 56.72%). Further analyses to confirm these results could include analyzing 1-star reviews for both groups, or by repeating the analysis above on the unfiltered dataset. Completing this anaylsis on other product types could also lend confidence to this analysis, especially on a dataset that includes more reviews by Vine members, as only 60 were included in the filtered dataset used in this analysis. 
